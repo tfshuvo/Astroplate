@@ -1,5 +1,5 @@
 {
-  "label": "Card",
+  "label": "Button",
   "schema": [],
   "code": "<Button label=\"this is a button\" />"
 }
