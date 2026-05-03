@@ -4,6 +4,14 @@
   "fmType": "yaml",
   "template": [
     {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
       "name": "meta_title",
       "label": "Meta Title",
       "type": "string",
@@ -65,14 +73,6 @@
       "label": "Draft",
       "type": "boolean",
       "value": false,
-      "isIgnored": false,
-      "defaultValue": ""
-    },
-    {
-      "name": "title",
-      "label": "Title",
-      "type": "string",
-      "value": "",
       "isIgnored": false,
       "defaultValue": ""
     }
