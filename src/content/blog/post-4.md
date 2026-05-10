@@ -23,9 +23,3 @@ The new Things
 This new line is edited nu SHuvo
 
 ​
-
-​
-
-![](http://discuss-cdn.kde.org/uploads/default/optimized/2X/e/e301cb179b160ec4305a948ca7e3a79921d63952_2_690x388.jpeg)
-
-​
