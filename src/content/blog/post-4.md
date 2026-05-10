@@ -18,6 +18,8 @@ Sitepins just crossed 1,300 users and we are just getting started. As always, we
 * [Follow us on X](https://x.com/sitepinscms)
 * [Join Our Discord Community (Support)](https://discord.gg/SuNEuX2eFj)
 
+The new Things
+
 ​
 
-The new Things
+This new line is edited nu SHuvo
