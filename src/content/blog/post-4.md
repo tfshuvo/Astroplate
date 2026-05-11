@@ -20,6 +20,4 @@ Sitepins just crossed 1,300 users and we are just getting started. As always, we
 
 The new Things
 
-This new line is edited nu SHuvo
-
-​
+This new line is edited nu SHuvo GG
